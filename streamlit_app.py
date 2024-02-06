@@ -1,4 +1,4 @@
 import streamlit as st
 st.title("shreya")
-st.subheader("hello everyone")
-st.text("sfdghh")
+st.subheader("HELLO MY FRIEND)
+st.text("bwm")
